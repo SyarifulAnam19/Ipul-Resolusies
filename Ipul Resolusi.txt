@@ -3,3 +3,5 @@ IPUL Resolusi Tahun 2023 :
 - Membuat Website Bem
 - Membuat Website Pribadi
 - Mempelajari lebih dalam tentang web development
+- Berkolaborasi dengan AI
+- Komitmen dalam coding
